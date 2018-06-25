@@ -69,13 +69,13 @@
 		<thumbnailator.version>0.4.8</thumbnailator.version>
 		<javassist.version>3.22.0-GA</javassist.version>
 		<!-- 配置 -->
-		<redis.host>127.0.0.1</redis.host>
+		<redis.host>120.79.202.146</redis.host>
 		<redis.password></redis.password>
 		<zookeeper.address>127.0.0.1:2181</zookeeper.address>
 		<fastDFS.host>127.0.0.1</fastDFS.host>
 		<session.cookie.secure>false</session.cookie.secure>
 		<jdbc.host>127.0.0.1</jdbc.host>
-		<jdbc.password>68NKG7n1mN8rErEfbag2qM==</jdbc.password>
+		<jdbc.password>Ktb94EfaZ7U=</jdbc.password>
 		<fdfs.host>http://127.0.0.1/</fdfs.host>
 		<fdfs.trackerList>127.0.0.1:22122</fdfs.trackerList>
 	</properties>
@@ -395,7 +395,7 @@
 				<fastDFS.host>127.0.0.1</fastDFS.host>
 				<session.cookie.secure>false</session.cookie.secure>
 				<jdbc.host>127.0.0.1</jdbc.host>
-				<jdbc.password>68NKG7n1mN8rErEfbag2qM==</jdbc.password>
+				<jdbc.password>Ktb94EfaZ7U=</jdbc.password>
 				<fdfs.host>http://127.0.0.1/</fdfs.host>
 				<fdfs.trackerList>127.0.0.1:22122</fdfs.trackerList>
 			</properties>
